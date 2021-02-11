@@ -5,4 +5,7 @@ end
 
 
 array(value_to_find)
+array.include?(value_to_find)
+
+robert(3)
 
